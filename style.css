@@ -1,0 +1,15 @@
+.container{
+    border: 1px solid dodgerblue;
+}
+
+.container-fluid{
+    border: 1px solid lime;
+}
+
+header{
+    min-height: 80px;
+}
+
+section{
+    min-height: 400px;
+}
