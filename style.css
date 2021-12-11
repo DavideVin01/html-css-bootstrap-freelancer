@@ -14,3 +14,12 @@ header{
 section{
     min-height: 500px;
 }
+
+#jumbotron{
+    background-color: #1ABC9C;
+}
+
+#jumbotron-avatar{
+    width: 300px;
+    height: 300px;
+}
