@@ -1,3 +1,5 @@
+/* Utilities */
+
 .container{
     /* border: 1px solid dodgerblue; */
 }
@@ -10,15 +12,24 @@ img {
     max-width: 100%;
 }
 
+section{
+    min-height: 500px;
+}
+
+/* :root{
+    --blue: #3A546D;
+    --light-green: #1ABC9C;
+    --dark-blue: #2C3E50;
+} */
+
+/* Header */
+
 header{
     min-height: 70px;
     background-color: #2C3E50;
 }
 
-
-section{
-    min-height: 500px;
-}
+/* Jumbotron */
 
 #jumbotron{
     background-color: #1ABC9C;
@@ -29,6 +40,14 @@ section{
     height: 300px;
 }
 
+/* Portfolio */
+
 #portfolio img{
     margin: 10px 0;
+}
+
+/* About */
+
+#about{
+    background-color: #1ABC9C;
 }
