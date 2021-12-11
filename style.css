@@ -29,6 +29,6 @@ section{
     height: 300px;
 }
 
-.bi-dash-lg{
-    /* font-size: 20px; */
+#portfolio img{
+    margin: 10px 0;
 }
