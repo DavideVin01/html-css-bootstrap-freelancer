@@ -1,13 +1,13 @@
 .container{
-    border: 1px solid dodgerblue;
+    /* border: 1px solid dodgerblue; */
 }
 
 .container-fluid{
-    border: 1px solid lime;
+    /* border: 1px solid lime; */
 }
 
 header{
-    min-height: 80px;
+    min-height: 70px;
     background-color: #2C3E50;
 }
 
