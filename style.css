@@ -41,7 +41,7 @@ section{
 /* Header */
 
 header{
-    min-height: 70px;
+    /* min-height: 70px; */
     background-color: #2C3E50;
 }
 
