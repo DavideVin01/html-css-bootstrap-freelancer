@@ -68,3 +68,19 @@ header{
     border-radius: 0;
     font-size: 1.5em;
 }
+
+/* Footer */
+
+#upper-footer{
+    background-color: #3A546D;
+    min-height: 100px;
+}
+
+#bottom-footer{
+    background-color: #2C3E50;
+    min-height: 60px;
+}
+
+.footer-logo{
+    font-size: 20px;
+}
