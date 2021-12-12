@@ -16,13 +16,13 @@ section{
     min-height: 500px;
 }
 
-#contact-me .btn{
-    width: 80px;
-}
-
 .bg-green,.text-green{
     background-color: #1ABC9C;
     color: #1ABC9C;
+}
+
+.clickable{
+    cursor: pointer;
 }
 
 /* .bi-dash-lg{
@@ -76,6 +76,10 @@ header{
     border-bottom: 1px solid lightgray;
     border-radius: 0;
     font-size: 1.5em;
+}
+
+#contact-me .btn{
+    width: 80px;
 }
 
 /* Footer */
