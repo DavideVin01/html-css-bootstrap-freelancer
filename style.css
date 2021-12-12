@@ -16,6 +16,15 @@ section{
     min-height: 500px;
 }
 
+#contact-me .btn{
+    width: 80px;
+}
+
+.bg-green,.text-green{
+    background-color: #1ABC9C;
+    color: #1ABC9C;
+}
+
 /* .bi-dash-lg{
     font-size: 100px;
 }
