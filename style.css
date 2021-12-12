@@ -16,8 +16,11 @@ section{
     min-height: 500px;
 }
 
-.bg-green,.text-green{
+.bg-green{
     background-color: #1ABC9C;
+}
+
+.text-green{
     color: #1ABC9C;
 }
 
